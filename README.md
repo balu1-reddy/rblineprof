@@ -27,7 +27,7 @@
            |     printf "% 8.1fms |  %s", sample/1000.0, line
            |   else
            |     printf "           | %s", line
-           |   end
+           |   
            | end
 ```
 
